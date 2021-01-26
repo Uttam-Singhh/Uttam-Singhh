@@ -9,9 +9,12 @@
 
 <p></p>
 
+<details>
+<summary>⚡️ More about my coding life</summary>
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uttam-Singhh)](https://github.com/Uttam-Singhh/github-readme-stats)
 
 ![Uttam's github stats](https://github-readme-stats.vercel.app/api?username=Uttam-Singhh)
                                                                                                                            
-                                                                                                                           
+</details>                                                                                                                         
                                                                                                                            
