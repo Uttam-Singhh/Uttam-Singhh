@@ -8,7 +8,7 @@
 <a href="https://www.facebook.com/uttam.khanduja"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> 
 <p><a href="https://uttam-singhh.github.io/Portfolio/">➡️ Check out my website 👈</a></p>
 
-I am <a href="https://uttam-singhh.github.io/Portfolio/">Uttam Singh</a> 😃 undergraduate pursuing bachelor's in Computer Science.
+I am <a href="https://uttam-singhh.github.io/Portfolio/">Uttam Singh</a> 😃 an undergraduate pursuing bachelor's in Computer Science.
 
 
 ## Languages and Tools:
