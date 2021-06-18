@@ -10,8 +10,14 @@
 
 I am <a href="https://uttam-singhh.github.io/Portfolio/">Uttam Singh</a> 😃 an undergraduate pursuing bachelor's in Computer Science. I am a Full Stack Web Developer, Blockchain developer and Cloud Enthusiast!
 
+Take a look at my [Work Experience](https://uttam-singhh.github.io/Portfolio/#experience) ⚡ and my [Volunteer Experience](https://uttam-singhh.github.io/Portfolio/#positionsofresponsibilty) 🌱
 
-## Languages and Tools:
+
+
+
+
+
+## Technology Stack ⚙️:
 
 <p align="center">
   <img title="C" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/c.svg">
