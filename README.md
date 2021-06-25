@@ -42,8 +42,9 @@ Take a look at my [Work Experience](https://uttam-singhh.github.io/Portfolio/#ex
   
   
 
+## GitHub Stats 🎗️:
+![Uttam's github stats](https://github-readme-stats.vercel.app/api?username=Uttam-Singhh&show_icons=true&theme=radical)
 
-![Uttam's github stats](https://github-readme-stats.vercel.app/api?username=Uttam-Singhh)
                                                                                                                         
                                                                                                                          
                                                                                                                            
