@@ -1,21 +1,27 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to my GitHub Profile 👨‍💻❤️
 
-## Let's Connect:
+## Connect with me 📫:
 <a href="https://twitter.com/singhk_uttam"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
 <a href="https://www.linkedin.com/in/uttam-singh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <a href="https://medium.com/@uttamkhanduja"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
 <a href=""><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 <a href="https://www.facebook.com/uttam.khanduja"><img src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a> 
-<p><a href="https://uttam-singhh.github.io/Portfolio/">➡️ Check out my website 👈</a></p>
+## <p><a href="https://uttam-singhh.github.io/Portfolio/">➡️ Check out my website ⚡</a></p>
 
 I am <a href="https://uttam-singhh.github.io/Portfolio/">Uttam Singh</a> 😃 an undergraduate pursuing bachelor's in Computer Science. I am a Full Stack Web Developer, Blockchain developer and Cloud Enthusiast!
 
-Take a look at my [Work Experience](https://uttam-singhh.github.io/Portfolio/#experience) ⚡ and my [Volunteer Experience](https://uttam-singhh.github.io/Portfolio/#positionsofresponsibilty) 🌱
+## Work experience 👔
+* MLH Fellow at Major League Hacking
+* Intern at Blockchain Council
+* Project Manager at Intellify (IIT Delhi initiative)
 
+## Volunteer Experience🌱
 
-
-
-
+* Chapter Lead - CodeChef College Chapter
+* Postman Student Leader & Expert
+* AWS Community Builder
+* Campus Ambasador - Code for Cause
+* Co-worker - NSS (National Service Scheme)
 
 ## Technology Stack ⚙️:
 
@@ -40,10 +46,15 @@ Take a look at my [Work Experience](https://uttam-singhh.github.io/Portfolio/#ex
   <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
   <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png">
   
-  
+## Check out my Latest Blogs 🗒:
+* [How the internet is going to change](https://uttamkhanduja.medium.com/how-the-internet-is-going-to-change-c0006ad8672f)
+* [My Journey as a CodeChef Chapter Lead](https://uttamkhanduja.medium.com/my-journey-as-codechef-chapter-lead-c70a576c82f0)
+* [Single Page vs. Multipage Application](https://uttamkhanduja.medium.com/single-page-vs-multi-page-application-28244351892)
 
 ## GitHub Stats 🎗️:
 ![Uttam's github stats](https://github-readme-stats.vercel.app/api?username=Uttam-Singhh&show_icons=true&theme=radical)
+  
+Check out my Projects 🐾 and Open Source Contributions 💡 Below 👇
 
                                                                                                                         
                                                                                                                          
