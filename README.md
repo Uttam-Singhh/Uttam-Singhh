@@ -13,6 +13,7 @@
 I am <a href="https://uttam-singhh.github.io/Portfolio/">Uttam Singh</a> 😃 an undergraduate pursuing bachelor's in Computer Science. I am a Full Stack Web Developer, Blockchain developer and Cloud Enthusiast!
 
 ## Work experience 👔
+* Software Engineer Intern at Polygon (aka Matic Network)
 * MLH Fellow at Major League Hacking
 * Intern at Blockchain Council
 * Project Manager at Intellify (IIT Delhi initiative)
