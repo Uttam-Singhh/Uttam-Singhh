@@ -53,7 +53,6 @@ I am <a href="https://uttam-singhh.github.io/Portfolio/">Uttam Singh</a> 😃 an
 * [How the internet is going to change](https://uttamkhanduja.medium.com/how-the-internet-is-going-to-change-c0006ad8672f)
 * [My Journey as a CodeChef Chapter Lead](https://uttamkhanduja.medium.com/my-journey-as-codechef-chapter-lead-c70a576c82f0)
 * [Single Page vs. Multipage Application](https://uttamkhanduja.medium.com/single-page-vs-multi-page-application-28244351892)
-* [Polygon (Matic Network) Internship Interview Experience](https://www.geeksforgeeks.org/polygon-matic-network-internship-interview-experience-off-campus/)
 
 ## GitHub Stats 🎗️:
 ![Uttam's github stats](https://github-readme-stats.vercel.app/api?username=Uttam-Singhh&show_icons=true&theme=radical)
