@@ -22,6 +22,8 @@ I am <a href="https://uttam-singhh.github.io/Portfolio/">Uttam Singh</a> 😃 an
 
 * Chapter Lead - CodeChef College Chapter
 * Postman Student Leader & Expert
+* Binance Campus Buidler
+* Dell Campassador
 * AWS Community Builder
 * Campus Ambasador - Code for Cause
 * Co-worker - NSS (National Service Scheme)
