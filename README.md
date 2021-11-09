@@ -36,6 +36,7 @@ I am <a href="https://uttam-singhh.github.io/Portfolio/">Uttam Singh</a> 😃 an
   <img title="C++" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/cpp.svg">
   <img title="Python" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/python-original.svg">
   <img title="Django" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/django.png">
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png">
   <img title="HTML5" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/html5.svg">
   <img title="CSS" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/css.svg">
   <img title="Javascript" height="20" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg">
@@ -45,6 +46,7 @@ I am <a href="https://uttam-singhh.github.io/Portfolio/">Uttam Singh</a> 😃 an
   <img title="Git" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/git-original.svg">
   <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
   <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
+  <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ethereum/ethereum.png">
   <img title="Visual Studio Code" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/vscode.png">
   <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png">
   <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png">
