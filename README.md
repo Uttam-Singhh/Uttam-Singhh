@@ -3,7 +3,7 @@
 ## <p><a href="https://uttam-singhh.github.io/Portfolio/">➡️ Check out my website ⚡</a></p>
 
 ## Connect with me 📫:
-<a href="https://twitter.com/singhk_uttam"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+[![Twitter Follow](https://img.shields.io/twitter/follow/singhk_uttam.svg?style=social)](https://twitter.com/singhk_uttam)
 <a href="https://www.linkedin.com/in/uttam-singh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <a href="https://medium.com/@uttamkhanduja"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
 <a href=""><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
