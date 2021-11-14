@@ -11,7 +11,7 @@
 <a href="https://www.youtube.com/channel/UCKbY9fHz4y_tt2lWSe9bUJw"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=red" height=25></a> 
 <a href="https://discordapp.com/users/694243608064294933"><img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" height=25></a>
 
-I am <a href="https://uttam-singhh.github.io/Portfolio/">Uttam Singh</a> 😃 an undergraduate pursuing bachelor's in Computer Science. I am a Full Stack Web Developer, Blockchain developer and Cloud Enthusiast!
+I am <a href="https://uttam-singhh.github.io/Portfolio/">Uttam Singh</a> 😃 an undergraduate pursuing bachelor's in Computer Science. I love to interact with people and engage with communities. I am a Full Stack Web Developer, Blockchain developer and Cloud Enthusiast!
 
 ## Work Experience 👔
 * Software Engineer Intern at Polygon (aka Matic Network)
