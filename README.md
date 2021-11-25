@@ -61,6 +61,8 @@ I am <a href="https://uttam-singhh.github.io/Portfolio/">Uttam Singh</a> 😃 an
 ## GitHub Stats 🎗️:
 ![Uttam's github stats](https://github-readme-stats.vercel.app/api?username=Uttam-Singhh&show_icons=true&theme=radical)
   
+![Uttam's github stats](https://github-readme-streak-stats.herokuapp.com/?user=Uttam-Singhh)
+  
 Check out my Projects 🐾 and Open Source Contributions 💡 Below 👇
 
                                                                                                                         
