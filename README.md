@@ -54,10 +54,6 @@ I am <a href="https://uttam-singhh.github.io/Portfolio/">Uttam Singh</a> 😃 an
   <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
   <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png">
   
-## Check out my Latest Blogs 🗒:
-* [How the internet is going to change](https://uttamkhanduja.medium.com/how-the-internet-is-going-to-change-c0006ad8672f)
-* [My Journey as a CodeChef Chapter Lead](https://uttamkhanduja.medium.com/my-journey-as-codechef-chapter-lead-c70a576c82f0)
-* [Single Page vs. Multipage Application](https://uttamkhanduja.medium.com/single-page-vs-multi-page-application-28244351892)
 
 ## GitHub Stats 🎗️:
 ![Uttam's github stats](https://github-readme-stats.vercel.app/api?username=Uttam-Singhh&show_icons=true&theme=radical)
