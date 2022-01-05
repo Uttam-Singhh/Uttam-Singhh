@@ -15,19 +15,22 @@
 I am <a href="https://uttam-singhh.github.io/Portfolio/">Uttam Singh</a> 😃 an undergraduate pursuing bachelor's in Computer Science. I love to interact with people and engage with communities. I am a Full Stack Web Developer, Blockchain developer and Cloud Enthusiast!
 
 ## Work Experience 👔
-* Software Engineer Intern at Polygon (aka Matic Network)
+* Engineer & Product Intern at Polygon (aka Matic Network)
+* Incoming Mitacs Globalink Research Intern'22 at Polytechnique Montreal
+* Developer Relations at Crypto Capable
 * MLH Fellow at Major League Hacking
 * Intern at Blockchain Council
 * Project Manager at Intellify (IIT Delhi initiative)
 
 ## Volunteer Experience🌱
 
+* Organizer - Azure Developer Community
+* Facilitator - #IamRemarkable
+* Binance Campus Buidler
 * Chapter Lead - CodeChef College Chapter
 * Postman Student Leader & Expert
-* Binance Campus Buidler
 * Dell Campassador
 * AWS Community Builder
-* Campus Ambasador - Code for Cause
 * Co-worker - NSS (National Service Scheme)
 
 ## Technology Stack ⚙️:
