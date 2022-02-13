@@ -15,6 +15,7 @@
 I am <a href="https://uttam-singhh.github.io/Portfolio/">Uttam Singh</a> 😃 an undergraduate pursuing bachelor's in Computer Science. I love to interact with people and engage with communities. I am a Full Stack Web Developer, Blockchain developer and Cloud Enthusiast!
 
 ## Work Experience 👔
+* Developer Relations at Polygon
 * Engineer & Product Intern at Polygon (aka Matic Network)
 * Incoming Mitacs Globalink Research Intern'22 at Polytechnique Montreal
 * Developer Relations at Crypto Capable
@@ -31,7 +32,6 @@ I am <a href="https://uttam-singhh.github.io/Portfolio/">Uttam Singh</a> 😃 an
 * Postman Student Leader & Expert
 * Dell Campassador
 * AWS Community Builder
-* Co-worker - NSS (National Service Scheme)
 
 ## Technology Stack ⚙️:
 
