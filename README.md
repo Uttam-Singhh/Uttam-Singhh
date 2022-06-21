@@ -1,4 +1,4 @@
-# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to my GitHub Profile 👨‍💻❤️
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to my GitHub Profile 👨‍💻❤️
 
 ## <p><a href="https://uttam-singhh.github.io/Portfolio/">➡️ Check out my website ⚡</a></p>
 
@@ -12,22 +12,20 @@
 <a href="https://discordapp.com/users/694243608064294933"><img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" height=25></a>
 <a href="https://www.buymeacoffee.com/uttamsingh" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
-I am <a href="https://uttam-singhh.github.io/Portfolio/">Uttam Singh</a> 😃 an undergraduate pursuing bachelor's in Computer Science. I love to interact with people and engage with communities. I am a Full Stack Web Developer, Blockchain developer and Cloud Enthusiast!
-
 ## Work Experience 👔
 * Developer Relations at Polygon
-* Engineer & Product Intern at Polygon (aka Matic Network)
-* Incoming Mitacs Globalink Research Intern'22 at Polytechnique Montreal
-* Developer Relations at Crypto Capable
+* Blockchain Researcher at Polytechnique Montreal (Mitacs Globalink)
+* Blockchain Engineer & Product Intern at Polygon (aka Matic Network)
+* Lead Developer Relations at Crypto Capable
 * MLH Fellow at Major League Hacking
 * Intern at Blockchain Council
 * Project Manager at Intellify (IIT Delhi initiative)
 
 ## Volunteer Experience🌱
 
+* Binance Community Buidler
 * Organizer - Azure Developer Community
 * Facilitator - #IamRemarkable
-* Binance Campus Buidler
 * Chapter Lead - CodeChef College Chapter
 * Postman Student Leader & Expert
 * Dell Campassador
