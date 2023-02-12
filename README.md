@@ -1,7 +1,5 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Welcome to my GitHub Profile 👨‍💻❤️
 
-## <p><a href="https://uttam-singhh.github.io/Portfolio/">➡️ Check out my website ⚡</a></p>
-
 ## Connect with me 📫:
 [![Twitter Follow](https://img.shields.io/twitter/follow/uttam_singhk.svg?style=social)](https://twitter.com/uttam_singhk)
 <a href="https://www.linkedin.com/in/uttam-singh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
