@@ -27,9 +27,6 @@
 * Postman Student Leader & Expert
 * Dell Campassador
 * AWS Community Builder  
-
-## GitHub Stats 🎗️:
-![Uttam's github stats](https://github-readme-stats.vercel.app/api?username=Uttam-Singhh&show_icons=true&theme=radical)
   
 Check out my Projects 🐾 and Open Source Contributions 💡 Below 👇
 
