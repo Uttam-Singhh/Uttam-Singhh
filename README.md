@@ -10,9 +10,9 @@
 
 ## Let about Blockchain in-depth 👨‍💻
 * [Crash Course on EVM](https://youtu.be/8p7RKYJ9AF0) - Architecture, OPCode and low level working
-* [Crash Course on FlashLoans](https://youtu.be/hcy1UwBdJCs) EIP 3156, Flashloans attacks, Tutorial
-* [Crash Course on Account Abstraction](https://youtu.be/1pE261Tbjcc) discussing ERC-4337, Code Walkthrough, UseCase & Benefits
-* [Crash Course on Stable Coins](https://youtu.be/xLixcEiRZNA) discussing working of various types of Stable Coins DAI, USDC, Terra
+* [Crash Course on FlashLoans](https://youtu.be/hcy1UwBdJCs) - EIP 3156, Flashloans attacks, Tutorial
+* [Crash Course on Account Abstraction](https://youtu.be/1pE261Tbjcc)  - ERC-4337, Code Walkthrough, UseCase & Benefits
+* [Crash Course on Stable Coins](https://youtu.be/xLixcEiRZNA) - working of various types of Stable Coins DAI, USDC, Terra
 
 ## Work Experience 👔
 * Developer Relations at Flare Network
