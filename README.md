@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/uttam_singhk/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 
 
-## Let about Blockchain in-depth 👨‍💻
+## Learn Blockchain in-depth 👨‍💻
 * [Crash Course on EVM](https://youtu.be/8p7RKYJ9AF0) - Architecture, OPCode and low level working
 * [Crash Course on FlashLoans](https://youtu.be/hcy1UwBdJCs) - EIP 3156, Flashloans attacks, Tutorial
 * [Crash Course on Account Abstraction](https://youtu.be/1pE261Tbjcc)  - ERC-4337, Code Walkthrough, UseCase & Benefits
