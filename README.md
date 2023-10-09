@@ -12,15 +12,5 @@
 * [Crash Course on EVM](https://youtu.be/8p7RKYJ9AF0) - Architecture, OPCode and low level working
 * [Crash Course on FlashLoans](https://youtu.be/hcy1UwBdJCs) - EIP 3156, Flashloans attacks, Tutorial
 * [Crash Course on Account Abstraction](https://youtu.be/1pE261Tbjcc)  - ERC-4337, Code Walkthrough, UseCase & Benefits
-* [Crash Course on Stable Coins](https://youtu.be/xLixcEiRZNA) - working of various types of Stable Coins DAI, USDC, Terra
-
-## Work Experience 👔
-* Developer Relations at Flare Network
-* Developer Relations Advocate at Polygon
-* Blockchain Researcher at Polytechnique Montreal (Mitacs Globalink)
-* Blockchain Engineer & Product Intern at Polygon (aka Matic Network)
-* Lead Developer Relations at Crypto Capable
-* MLH Fellow at Major League Hacking
-* Intern at Blockchain Council
-* Project Manager at Intellify (IIT Delhi initiative)                                               
+* [Crash Course on Stable Coins](https://youtu.be/xLixcEiRZNA) - working of various types of Stable Coins DAI, USDC, Terra                                        
                                                                                                                            
