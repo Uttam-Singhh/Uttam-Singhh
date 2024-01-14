@@ -6,6 +6,7 @@
 
 
 ## Learn Blockchain in-depth 👨‍💻
+* [Crash Course on MEV](https://youtu.be/hVWLOdruHhw) - PBS & MEV Boost Architecture, Code MEV Bot
 * [Crash Course on EVM](https://youtu.be/8p7RKYJ9AF0) - Architecture, OPCode and low level working
 * [Crash Course on FlashLoans](https://youtu.be/hcy1UwBdJCs) - EIP 3156, Flashloans attacks, Tutorial
 * [Crash Course on Account Abstraction](https://youtu.be/1pE261Tbjcc)  - ERC-4337, Code Walkthrough, UseCase & Benefits
