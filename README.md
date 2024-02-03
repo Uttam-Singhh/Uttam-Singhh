@@ -2,7 +2,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/uttam_singhk.svg?style=social)](https://twitter.com/uttam_singhk)
 <a href="https://www.linkedin.com/in/uttam-singh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <a href="https://www.youtube.com/channel/UCKbY9fHz4y_tt2lWSe9bUJw"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=red" height=25></a> 
-<a href="https://discordapp.com/users/694243608064294933"><img src="https://img.shields.io/badge/discord-%230077B5.svg?&style=for-the-badge&logo=discord&logoColor=white" height=25></a>
 
 
 ## Learn Blockchain in-depth 👨‍💻
