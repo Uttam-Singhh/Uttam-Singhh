@@ -3,6 +3,10 @@
 <a href="https://www.linkedin.com/in/uttam-singh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <a href="https://www.youtube.com/channel/UCKbY9fHz4y_tt2lWSe9bUJw"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=red" height=25></a> 
 
+Quick Facts ⚡️
+- I enjoy researching new web3 protocols & teaching technical blockchain concepts
+- Currently at [Flare](https://flare.network/), previously worked at [Polygon](https://polygon.technology/), University De Montreal(https://www.polymtl.ca/en/),
+- I do enjoy coding but haven't been active for a while :(
 
 ## Learn Blockchain in-depth 👨‍💻
 * [Crash Course on MEV](https://youtu.be/hVWLOdruHhw) - PBS & MEV Boost Architecture, Code MEV Bot
