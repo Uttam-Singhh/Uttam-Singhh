@@ -10,4 +10,11 @@
 * [Crash Course on FlashLoans](https://youtu.be/hcy1UwBdJCs) - EIP 3156, Flashloans attacks, Tutorial
 * [Crash Course on Account Abstraction](https://youtu.be/1pE261Tbjcc)  - ERC-4337, Code Walkthrough, UseCase & Benefits
 * [Crash Course on Stable Coins](https://youtu.be/xLixcEiRZNA) - working of various types of Stable Coins DAI, USDC, Terra                                        
-                                                                                                                           
+  
+
+## Projects 💼
+* [ETH Empower](https://github.com/Uttam-Singhh/ETHEmpower)
+* [Blockcompass](https://github.com/yorku-ease/blockcompass)
+* [ChainSettle](https://github.com/Uttam-Singhh/ChainSettle)
+* [Damn Vulnerable DeFi Solutions - Foundry](https://github.com/Uttam-Singhh/Damn-Vulnerable-DeFi-Solutions-Foundry-Solidity)
+
