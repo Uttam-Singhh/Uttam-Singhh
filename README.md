@@ -5,7 +5,7 @@
 
 Quick Facts ⚡️
 - I enjoy researching new web3 protocols & teaching technical blockchain concepts
-- Currently at [Flare](https://flare.network/), previously worked at [Polygon](https://polygon.technology/), [University De Montreal](https://www.polymtl.ca/en/),
+- Currently at [Flare](https://flare.network/), Previously worked at [Polygon](https://polygon.technology/), [University De Montreal](https://www.polymtl.ca/en/).
 - I do enjoy coding but haven't been active for a while :(
 
 ## Learn Blockchain in-depth 👨‍💻
