@@ -11,6 +11,7 @@ Quick Facts ⚡️
 ## Learn Blockchain in-depth 👨‍💻
 * [Crash Course on MEV](https://youtu.be/hVWLOdruHhw) - PBS & MEV Boost Architecture, Code MEV Bot
 * [Crash Course on EVM](https://youtu.be/8p7RKYJ9AF0) - Architecture, OPCode and low level working
+* [Crash Course on Diamond Proxy Pattern EIP 2535](https://youtu.be/e6WCbOyK7FA?si=OLrA1uy08mLoKXpa) - Codebase Walkthrough
 * [Crash Course on FlashLoans](https://youtu.be/hcy1UwBdJCs) - EIP 3156, Flashloans attacks, Tutorial
 * [Crash Course on Account Abstraction](https://youtu.be/1pE261Tbjcc)  - ERC-4337, Code Walkthrough, UseCase & Benefits
 * [Crash Course on Stable Coins](https://youtu.be/xLixcEiRZNA) - working of various types of Stable Coins DAI, USDC, Terra                                        
