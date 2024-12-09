@@ -5,7 +5,7 @@
 
 Quick Facts ⚡️
 - I enjoy researching new web3 protocols & teaching technical blockchain concepts
-- Currently at [Flare](https://flare.network/), Previously worked at [Polygon](https://polygon.technology/), [University De Montreal](https://www.polymtl.ca/en/)
+- Currently at [Alchemy](https://www.alchemy.com/), Previously worked at [Polygon](https://polygon.technology/), [Flare](https://flare.network/), [University De Montreal](https://www.polymtl.ca/en/)
 
 ## Learn Blockchain in-depth 👨‍💻
 * [Crash Course on MEV](https://youtu.be/hVWLOdruHhw) - PBS & MEV Boost Architecture, Code MEV Bot
