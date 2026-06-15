@@ -4,7 +4,7 @@
 <a href="https://www.youtube.com/channel/UCKbY9fHz4y_tt2lWSe9bUJw"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=red" height=25></a> 
 
 Quick Facts ⚡️
-- I enjoy researching new web3 protocols & teaching technical blockchain concepts
+- I enjoy researching new crypto protocols & teaching technical blockchain concepts
 - Currently at [Alchemy](https://www.alchemy.com/), Previously worked at [Polygon](https://polygon.technology/), [Flare](https://flare.network/), [University De Montreal](https://www.polymtl.ca/en/)
 
 ## Learn Blockchain in-depth 👨‍💻
@@ -14,11 +14,5 @@ Quick Facts ⚡️
 * [Crash Course on FlashLoans](https://youtu.be/hcy1UwBdJCs) - EIP 3156, Flashloans attacks, Tutorial
 * [Crash Course on Account Abstraction](https://youtu.be/1pE261Tbjcc)  - ERC-4337, Code Walkthrough, UseCase & Benefits
 * [Crash Course on Stable Coins](https://youtu.be/xLixcEiRZNA) - working of various types of Stable Coins DAI, USDC, Terra                                        
-  
 
-## Projects 💼
-* [ETH Empower](https://github.com/Uttam-Singhh/ETHEmpower)
-* [Blockcompass](https://github.com/yorku-ease/blockcompass)
-* [ChainSettle](https://github.com/Uttam-Singhh/ChainSettle)
-* [Damn Vulnerable DeFi Solutions - Foundry](https://github.com/Uttam-Singhh/Damn-Vulnerable-DeFi-Solutions-Foundry-Solidity)
 
